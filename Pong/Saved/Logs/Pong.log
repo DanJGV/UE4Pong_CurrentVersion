@@ -11883,3 +11883,1784 @@ Make sure 'InvisibleBall_BP_C' has been compiled for  Set timeSinceReversed
 [2020.10.06-22.44.25:787][885]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED684A7E00), frame # 1157885
 [2020.10.06-22.44.25:790][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
 [2020.10.06-22.44.25:825][886]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2020.10.06-22.47.07:497][ 20]BlueprintLog: New page: Compile Paddle_BP
+[2020.10.06-22.47.07:651][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.10.06-22.47.11:933][371]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-22.47.11:951][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-22.47.11:952][371]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 12:47:11 PM)
+[2020.10.06-22.47.11:991][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-22.47.11:995][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004001s)
+[2020.10.06-22.47.11:997][371]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-22.47.11:997][371]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED5DAEB200), frame # 1161371
+[2020.10.06-22.47.11:997][371]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED1C740CC0), frame # 1161371
+[2020.10.06-22.47.11:997][371]LogPlayLevel: PIE: World Init took: (0.002082s)
+[2020.10.06-22.47.11:997][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.006292s)
+[2020.10.06-22.47.12:036][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-22.47.12:038][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-22.47.12:038][371]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-22.47.12:038][371]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-22.47.12:043][371]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-22.47.12:043][371]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-22.47.12:081][371]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.06-22.47.12:081][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-22.47.12:081][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-22.47.12:081][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-22.47.12:082][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-22.47.12:100][371]LogInit: FAudioDevice initialized.
+[2020.10.06-22.47.12:109][371]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-22.47.12:110][371]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 0) at 2020.10.06-17.47.12
+[2020.10.06-22.47.12:111][371]LogWorld: Bringing up level for play took: 0.001329
+[2020.10.06-22.47.12:111][371]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2020.10.06-22.47.12:114][371]PIE: Server logged in
+[2020.10.06-22.47.12:115][371]PIE: Play in editor total start time 0.166 seconds.
+[2020.10.06-22.47.13:805][572]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.13:806][572]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.13:806][572]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.16:806][932]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.19:208][216]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.19:208][216]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.19:209][216]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.21:133][447]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.21:817][529]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.22:675][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.22:675][632]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.22:675][632]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.23:908][780]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.24:900][899]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.24:900][899]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.24:900][899]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.25:693][994]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.26:327][ 61]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.26:328][ 61]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.26:328][ 61]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.26:352][ 64]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.26:836][122]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.27:245][171]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.27:245][171]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.27:245][171]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.27:577][211]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.27:845][243]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-22.47.27:845][243]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-22.47.27:845][243]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.28:061][269]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-22.47.29:765][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-22.47.29:765][469]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-22.47.29:765][469]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-22.47.29:765][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-22.47.29:782][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-22.47.29:786][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-22.47.29:848][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-22.47.29:849][469]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED1C740CC0), frame # 1163469
+[2020.10.06-22.47.29:849][469]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED5DAEB200), frame # 1163469
+[2020.10.06-22.47.29:853][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.06-22.47.29:885][470]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2020.10.06-22.48.55:842][766]BlueprintLog: New page: Compile Paddle_BP
+[2020.10.06-22.48.55:933][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.10.06-22.50.22:789][779]Cmd: DELETE
+[2020.10.06-22.50.22:789][779]Cmd: ACTOR DELETE
+[2020.10.06-22.50.22:793][779]LogEditorActor: Deleted Actor: InvisibleBall_BP_C
+[2020.10.06-22.50.22:832][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.06-22.50.22:834][779]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.10.06-22.53.37:683][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.06-22.53.37:739][499]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto07A92979247996CC609A7E2AF850921C3.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto0.umap'
+[2020.10.06-22.53.37:745][499]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.100
+[2020.10.06-22.53.37:745][499]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2020.10.06-22.53.37:745][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball_BP] ([1] browsable assets)...
+[2020.10.06-22.53.37:772][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball_BP.Ball_BP]
+[2020.10.06-22.53.37:772][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball_BP]
+[2020.10.06-22.53.37:860][499]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Ball_BP_Auto0F9527C9242FE66C1A7F6EB9CB26E8FC9.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Ball_BP_Auto0.uasset'
+[2020.10.06-22.53.37:863][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Paddle_BP] ([1] browsable assets)...
+[2020.10.06-22.53.37:888][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Paddle_BP.Paddle_BP]
+[2020.10.06-22.53.37:888][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Paddle_BP]
+[2020.10.06-22.53.37:943][499]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP_Auto02D7D92D147556EB1BA9E17B004D686CA.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Paddle_BP_Auto0.uasset'
+[2020.10.06-22.53.37:946][499]LogFileHelpers: Auto-saving content packages took 0.201
+[2020.10.06-23.00.41:855][765]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{cd094a0d-41ca-448a-a527-9cecafb5bb5c}.
+[2020.10.06-23.00.41:855][765]LogTemp: Resetting audio stream to device id 
+[2020.10.06-23.00.41:922][765]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.00.41:922][765]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.00.42:872][768]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{06bd0d1d-2208-460c-af0a-dd7997dffaa8}.
+[2020.10.06-23.00.42:872][768]LogTemp: Resetting audio stream to device id 
+[2020.10.06-23.00.42:919][768]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.00.42:920][768]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.13.24:231][  0]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.06-23.13.24:333][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.10.06-23.13.28:985][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.13.29:002][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.13.29:002][414]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:13:29 PM)
+[2020.10.06-23.13.29:003][414]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.13.29:007][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004107s)
+[2020.10.06-23.13.29:008][414]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.13.29:008][414]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED67EC0C00), frame # 1177414
+[2020.10.06-23.13.29:008][414]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED543ABB00), frame # 1177414
+[2020.10.06-23.13.29:008][414]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2020.10.06-23.13.29:008][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.005580s)
+[2020.10.06-23.13.29:049][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.13.29:050][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.13.29:050][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.13.29:051][414]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.13.29:051][414]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.13.29:058][414]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.13.29:058][414]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.13.29:076][414]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.13.29:076][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.13.29:076][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.13.29:076][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.13.29:078][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.13.29:094][414]LogInit: FAudioDevice initialized.
+[2020.10.06-23.13.29:104][414]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.13.29:106][414]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 0) at 2020.10.06-18.13.29
+[2020.10.06-23.13.29:106][414]LogWorld: Bringing up level for play took: 0.001458
+[2020.10.06-23.13.29:106][414]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2020.10.06-23.13.29:109][414]PIE: Server logged in
+[2020.10.06-23.13.29:110][414]PIE: Play in editor total start time 0.109 seconds.
+[2020.10.06-23.13.30:854][622]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.30:854][622]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.30:854][622]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.33:855][982]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.36:255][270]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.36:255][270]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.36:255][270]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.37:688][442]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.38:179][501]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.39:722][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.39:722][686]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.39:722][686]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.40:955][834]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.41:947][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.41:947][953]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.41:947][953]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.41:948][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.41:948][953]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.42:430][ 11]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.42:739][ 48]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.43:372][124]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.43:373][124]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.43:373][124]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.43:373][124]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.43:373][124]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.43:880][185]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.44:289][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.44:290][234]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.44:290][234]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.44:290][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.44:290][234]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.44:614][273]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.44:873][304]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.44:873][304]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.44:873][304]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:081][329]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:248][349]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:248][349]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.45:248][349]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:315][357]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:380][365]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:490][378]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:490][378]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.45:490][378]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:490][378]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:490][378]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.45:581][389]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:656][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:656][398]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.45:656][398]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:657][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:657][398]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.45:714][405]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:764][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:764][411]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.45:764][411]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.45:765][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.45:765][411]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.47:665][639]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.47:665][639]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.47:665][639]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.50:691][  2]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.53:116][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.53:116][293]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.53:116][293]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.55:058][526]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.56:612][712]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.56:612][712]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.56:612][712]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.57:853][861]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.58:045][884]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.58:846][980]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.13.58:846][980]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.13.58:846][980]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.13.59:645][ 76]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.00:289][153]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.00:290][153]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.00:290][153]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.00:806][215]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.01:223][265]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.01:223][265]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.01:223][265]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.01:330][278]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.01:555][305]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.03:740][567]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.03:741][567]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.03:741][567]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.06:765][930]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.09:192][221]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.09:192][221]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.09:192][221]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.11:132][454]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.11:441][491]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.12:683][640]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.12:683][640]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.12:683][640]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.13:924][789]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.14:458][853]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.14:925][909]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.14:925][909]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.14:925][909]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.19:864][498]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.19:864][498]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.19:864][498]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.22:889][861]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.23:739][963]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.25:306][151]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.25:306][151]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.25:307][151]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.27:239][383]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.27:331][394]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.28:791][569]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.28:791][569]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.28:791][569]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.29:516][656]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.30:033][718]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.33:001][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.33:001][ 74]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.33:001][ 74]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.36:025][437]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.38:452][728]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.38:452][728]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.38:452][728]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.40:395][961]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.41:946][147]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.41:946][147]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.41:947][147]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.42:180][175]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.43:188][296]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.44:189][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.44:190][416]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.44:190][416]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.44:989][512]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.45:632][589]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.45:632][589]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.45:632][589]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.46:148][651]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.48:490][932]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.48:490][932]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.48:490][932]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.51:515][295]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.53:942][586]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.53:942][586]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.53:942][586]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.55:877][818]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.57:238][981]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.57:430][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.57:430][  4]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.57:430][  4]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.58:671][153]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.14.59:663][272]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.14.59:664][272]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.14.59:664][272]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.00:457][367]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.00:583][382]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.01:100][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.01:100][444]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.01:100][444]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.03:558][739]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.03:558][739]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.03:558][739]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.06:582][101]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.06:966][147]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.09:008][392]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.09:008][392]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.09:008][392]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.10:708][596]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.10:950][625]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.12:500][811]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.12:500][811]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.12:500][811]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.13:742][960]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.14:333][ 31]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.14:742][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.14:742][ 80]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.14:742][ 80]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.17:501][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.17:501][411]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.17:501][411]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.20:526][770]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.21:185][849]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.22:955][ 57]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.15.22:955][ 57]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.15.22:955][ 57]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.24:899][290]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.25:223][329]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.15.27:033][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.15.27:033][541]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.15.27:033][541]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.15.27:034][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.15.27:049][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.15.27:054][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.15.27:110][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.15.27:111][541]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED543ABB00), frame # 1191541
+[2020.10.06-23.15.27:111][541]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED67EC0C00), frame # 1191541
+[2020.10.06-23.15.27:115][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.06-23.15.27:149][542]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2020.10.06-23.15.54:786][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.06-23.15.54:840][961]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto1A7B2AAB547AA1677D16A7486E40C7695.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto1.umap'
+[2020.10.06-23.15.54:846][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.100
+[2020.10.06-23.15.54:846][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2020.10.06-23.15.54:846][961]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball_BP] ([1] browsable assets)...
+[2020.10.06-23.15.54:875][961]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball_BP.Ball_BP]
+[2020.10.06-23.15.54:875][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball_BP]
+[2020.10.06-23.15.54:964][961]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Ball_BP_Auto1F5A7697B4E7FFAE909075C86DB0A122A.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Ball_BP_Auto1.uasset'
+[2020.10.06-23.15.54:966][961]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Paddle_BP] ([1] browsable assets)...
+[2020.10.06-23.15.54:993][961]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Paddle_BP.Paddle_BP]
+[2020.10.06-23.15.54:993][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Paddle_BP]
+[2020.10.06-23.15.55:050][961]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP_Auto1602E3D08422EE1C2C63BC7A6A630C604.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Paddle_BP_Auto1.uasset'
+[2020.10.06-23.15.55:051][961]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InvisibleBall_BP] ([1] browsable assets)...
+[2020.10.06-23.15.55:076][961]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP]
+[2020.10.06-23.15.55:076][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/InvisibleBall_BP]
+[2020.10.06-23.15.55:158][961]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BP_Auto1140D32B2447665CF170ACF820F4D64B9.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/InvisibleBall_BP_Auto1.uasset'
+[2020.10.06-23.15.55:160][961]LogFileHelpers: Auto-saving content packages took 0.314
+[2020.10.06-23.17.43:252][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InvisibleBall_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/InvisibleBall_BP.uasset" SILENT=true
+[2020.10.06-23.17.43:324][989]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BPB0BE5604405B0DDA2FD56AAA57FCBC97.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/InvisibleBall_BP.uasset'
+[2020.10.06-23.17.43:345][989]AssetCheck: New page: Asset Save: InvisibleBall_BP
+[2020.10.06-23.17.43:345][989]LogContentValidation: Display: Validating Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP
+[2020.10.06-23.18.00:987][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Ball_BP.uasset" SILENT=true
+[2020.10.06-23.18.01:065][ 94]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Ball_BP74545DF24D2367AC08437D9A9211823B.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Ball_BP.uasset'
+[2020.10.06-23.18.01:086][ 94]AssetCheck: New page: Asset Save: Ball_BP
+[2020.10.06-23.18.01:087][ 94]LogContentValidation: Display: Validating Blueprint /Game/Ball_BP.Ball_BP
+[2020.10.06-23.27.54:059][367]LogEditorViewport: Clicking on Actor (LMB): Ball_BP_C (Ball_BP)
+[2020.10.06-23.28.33:974][652]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.28.33:974][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.29.26:126][608]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.06-23.29.26:248][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.10.06-23.29.29:451][782]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.29.29:468][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.29.29:468][782]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:29:29 PM)
+[2020.10.06-23.29.29:468][782]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.29.29:472][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003965s)
+[2020.10.06-23.29.29:473][782]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.29.29:473][782]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED5AC8DA00), frame # 1212782
+[2020.10.06-23.29.29:473][782]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED5ADA5440), frame # 1212782
+[2020.10.06-23.29.29:474][782]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2020.10.06-23.29.29:474][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.005512s)
+[2020.10.06-23.29.29:512][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.29.29:514][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.29.29:514][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.29.29:515][782]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.29.29:515][782]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.29.29:518][782]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.29.29:518][782]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.29.29:538][782]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.29.29:538][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.29.29:538][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.29.29:538][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.29.29:540][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.29.29:559][782]LogInit: FAudioDevice initialized.
+[2020.10.06-23.29.29:566][782]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.29.29:567][782]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-18.29.29
+[2020.10.06-23.29.29:568][782]LogWorld: Bringing up level for play took: 0.001255
+[2020.10.06-23.29.29:568][782]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2020.10.06-23.29.29:571][782]PIE: Server logged in
+[2020.10.06-23.29.29:571][782]PIE: Play in editor total start time 0.106 seconds.
+[2020.10.06-23.29.31:325][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.29.31:325][886]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.29.31:325][886]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.34:342][ 67]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.36:759][212]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.29.36:759][212]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.29.36:759][212]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.37:776][273]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.38:692][328]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.42:259][542]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.29.42:259][542]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.29.42:259][542]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.45:292][724]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.46:192][778]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.47:726][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.29.47:726][870]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.29.47:726][870]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.49:409][971]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.51:726][110]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.29.51:726][110]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.29.51:727][110]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.54:759][292]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.55:325][326]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.57:192][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.29.57:193][438]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.29.57:193][438]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.58:609][523]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.29.59:160][556]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.00:743][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.00:743][651]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.00:743][651]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.01:609][703]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.02:009][727]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.03:027][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.03:027][788]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.03:027][788]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.05:793][954]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.05:794][954]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.05:794][954]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.08:826][136]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.11:260][282]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.11:260][282]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.11:260][282]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.13:209][399]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.14:776][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.14:776][493]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.14:776][493]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.16:026][568]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.18:994][746]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.18:994][746]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.18:994][746]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.22:026][928]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.23:193][998]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.24:469][ 73]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.30.24:469][ 73]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.30.24:469][ 73]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.26:419][190]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.30.27:777][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.30.27:777][269]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.30.27:777][269]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.30.27:777][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.30.27:797][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.30.27:802][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.30.27:852][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.30.27:854][269]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED5AC8DA00), frame # 1216269
+[2020.10.06-23.30.27:854][269]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED5ADA5440), frame # 1216269
+[2020.10.06-23.30.27:857][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.10.06-23.30.27:890][270]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2020.10.06-23.30.57:151][947]BlueprintLog: New page: Compile Paddle_BP
+[2020.10.06-23.30.57:248][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.06-23.30.58:647][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.30.58:665][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.30.58:665][ 20]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:30:58 PM)
+[2020.10.06-23.30.58:704][ 20]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.30.58:709][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004974s)
+[2020.10.06-23.30.58:710][ 20]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.30.58:710][ 20]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ECA6DFA600), frame # 1218020
+[2020.10.06-23.30.58:710][ 20]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED5D5AC180), frame # 1218020
+[2020.10.06-23.30.58:711][ 20]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2020.10.06-23.30.58:711][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.006882s)
+[2020.10.06-23.30.58:748][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.30.58:749][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.30.58:749][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.30.58:750][ 20]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.30.58:750][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.30.58:753][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.30.58:753][ 20]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.30.58:772][ 20]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.30.58:773][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.30.58:773][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.30.58:773][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.30.58:773][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.30.58:789][ 20]LogInit: FAudioDevice initialized.
+[2020.10.06-23.30.58:806][ 20]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.30.58:808][ 20]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-18.30.58
+[2020.10.06-23.30.58:808][ 20]LogWorld: Bringing up level for play took: 0.001484
+[2020.10.06-23.30.58:808][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2020.10.06-23.30.58:811][ 20]PIE: Server logged in
+[2020.10.06-23.30.58:812][ 20]PIE: Play in editor total start time 0.149 seconds.
+[2020.10.06-23.31.00:506][114]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.00:507][114]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.00:507][114]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.00:507][114]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.03:859][311]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.06:264][455]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.06:264][455]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.06:264][455]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.06:265][455]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.08:197][571]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.09:247][634]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.11:765][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.11:765][785]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.11:765][785]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.11:766][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.16:323][937]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.18:745][ 82]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.18:745][ 82]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.18:745][ 82]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.18:745][ 82]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.20:194][169]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.20:694][199]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.22:261][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.22:261][293]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.22:261][293]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.22:262][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.23:510][368]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.24:511][428]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.24:511][428]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.24:512][428]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.24:512][428]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.25:310][476]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.25:644][496]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.25:961][515]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.25:961][515]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.25:961][515]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.25:962][515]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.26:495][547]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.26:928][573]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.26:929][573]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.26:929][573]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.26:929][573]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.27:278][594]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.29:478][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.29:478][726]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.29:478][726]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.29:479][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.32:511][908]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.34:945][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.34:945][ 54]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.34:945][ 54]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.34:945][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.36:228][131]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.36:894][171]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.38:462][261]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.38:463][261]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.38:463][261]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.38:463][261]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.39:717][335]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.43:331][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.06-23.31.48:130][822]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.48:131][822]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.48:131][822]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.48:131][822]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.51:163][  4]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.53:597][150]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.53:597][150]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.53:597][150]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.53:597][150]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.55:547][267]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.57:112][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.57:112][358]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.57:112][358]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.57:112][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.58:362][431]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.59:096][475]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.59:363][491]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.31.59:363][491]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.31.59:363][491]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.31.59:363][491]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.00:162][539]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.00:814][578]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.00:814][578]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.00:814][578]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.00:814][578]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.03:280][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.03:280][726]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.03:281][726]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.03:281][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.05:957][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.06:307][907]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.07:812][991]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.08:730][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.08:730][ 46]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.08:730][ 46]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.08:730][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.10:663][162]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.14:230][376]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.14:230][376]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.14:230][376]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.14:231][376]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.17:263][558]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.19:697][704]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.19:697][704]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.19:697][704]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.19:697][704]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.20:047][725]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.20:580][757]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.21:647][821]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.25:215][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.25:215][ 35]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.25:215][ 35]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.25:216][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.28:248][217]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.30:682][363]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.30:682][363]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.30:682][363]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.30:682][363]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.31:506][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.32.31:506][410]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.32.31:507][410]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.32.31:507][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.32.31:535][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.32.31:539][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.32.31:594][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.32.31:595][410]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED5D5AC180), frame # 1223410
+[2020.10.06-23.32.31:595][410]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ECA6DFA600), frame # 1223410
+[2020.10.06-23.32.31:599][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.10.06-23.32.31:673][411]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2020.10.06-23.32.53:261][681]BlueprintLog: New page: Compile Paddle_BP
+[2020.10.06-23.32.53:337][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.10.06-23.32.55:166][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.06-23.32.57:325][910]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.32.57:343][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.32.57:343][910]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:32:57 PM)
+[2020.10.06-23.32.57:344][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.32.57:348][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004465s)
+[2020.10.06-23.32.57:349][910]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.32.57:349][910]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ECF20FFA00), frame # 1224910
+[2020.10.06-23.32.57:349][910]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED0ADC1580), frame # 1224910
+[2020.10.06-23.32.57:350][910]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2020.10.06-23.32.57:350][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.006063s)
+[2020.10.06-23.32.57:387][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.32.57:389][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.32.57:389][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.32.57:390][910]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.32.57:390][910]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.32.57:393][910]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.32.57:393][910]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.32.57:411][910]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.32.57:412][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.32.57:412][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.32.57:412][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.32.57:412][910]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.32.57:429][910]LogInit: FAudioDevice initialized.
+[2020.10.06-23.32.57:441][910]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.32.57:443][910]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-18.32.57
+[2020.10.06-23.32.57:443][910]LogWorld: Bringing up level for play took: 0.001209
+[2020.10.06-23.32.57:443][910]LogOnline: OSS: Creating online subsystem instance for: :Context_121
+[2020.10.06-23.32.57:446][910]PIE: Server logged in
+[2020.10.06-23.32.57:447][910]PIE: Play in editor total start time 0.106 seconds.
+[2020.10.06-23.32.59:189][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.32.59:189][ 14]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.32.59:190][ 14]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.32.59:190][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.33.02:189][194]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.33.04:589][338]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.33.04:590][338]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.33.04:590][338]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.33.04:590][338]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.33.05:205][375]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.33.06:523][454]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.33.09:549][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.33.09:549][633]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.33.09:550][633]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.33.09:550][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.33.09:576][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.33.09:581][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.33.09:633][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.33.09:635][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED0ADC1580), frame # 1225633
+[2020.10.06-23.33.09:635][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ECF20FFA00), frame # 1225633
+[2020.10.06-23.33.09:638][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.06-23.33.09:708][634]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2020.10.06-23.33.40:425][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.06-23.33.40:482][ 80]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto23E9639624DE6CDB391D1B393F91020A1.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto2.umap'
+[2020.10.06-23.33.40:486][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.096
+[2020.10.06-23.33.40:486][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.096
+[2020.10.06-23.33.40:486][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Paddle_BP] ([1] browsable assets)...
+[2020.10.06-23.33.40:516][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Paddle_BP.Paddle_BP]
+[2020.10.06-23.33.40:516][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Paddle_BP]
+[2020.10.06-23.33.40:575][ 80]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP_Auto282EE07764D0A145174B08C9C94F5DDF6.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Paddle_BP_Auto2.uasset'
+[2020.10.06-23.33.40:577][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InvisibleBall_BP] ([1] browsable assets)...
+[2020.10.06-23.33.40:604][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP]
+[2020.10.06-23.33.40:604][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/InvisibleBall_BP]
+[2020.10.06-23.33.40:691][ 80]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BP_Auto226DEFC594DC5ED0EFCA7338ED63C58DD.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/InvisibleBall_BP_Auto2.uasset'
+[2020.10.06-23.33.40:693][ 80]LogFileHelpers: Auto-saving content packages took 0.206
+[2020.10.06-23.36.11:470][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.10.06-23.36.19:154][815]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/I_Ball_BP.I_Ball_BP
+[2020.10.06-23.36.46:520][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paddle_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset" SILENT=true
+[2020.10.06-23.36.46:568][237]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP52BBA5454A80E2D226525F8BD25D988B.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset'
+[2020.10.06-23.36.46:628][237]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_BuiltData08BD8BC24CA0041B6CAD0E99917EFB1B.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Pong_Map_BuiltData.uasset'
+[2020.10.06-23.36.46:672][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.06-23.36.46:724][237]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_MapAD1097624BB452605F53FCA290783B66.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Pong_Map.umap'
+[2020.10.06-23.36.46:762][237]LogFileHelpers: Saving map 'Pong_Map' took 0.129
+[2020.10.06-23.36.46:762][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InvisibleBall_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/InvisibleBall_BP.uasset" SILENT=true
+[2020.10.06-23.36.46:839][237]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BP4B3F3ECD492DFF2D80FA92AE3F1B5EF5.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/InvisibleBall_BP.uasset'
+[2020.10.06-23.36.46:856][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/I_Ball_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/I_Ball_BP.uasset" SILENT=true
+[2020.10.06-23.36.46:919][237]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/I_Ball_BP9E04E98A49C235962CD25D9F2784EA06.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/I_Ball_BP.uasset'
+[2020.10.06-23.36.46:974][237]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-23.36.46:974][237]LogContentValidation: Display: Validating Blueprint /Game/Paddle_BP.Paddle_BP
+[2020.10.06-23.36.46:974][237]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pong_Map_BuiltData.Pong_Map_BuiltData
+[2020.10.06-23.36.46:974][237]LogContentValidation: Display: Validating World /Game/Pong_Map.Pong_Map
+[2020.10.06-23.36.46:974][237]LogContentValidation: Display: Validating Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP
+[2020.10.06-23.36.46:974][237]LogContentValidation: Display: Validating Blueprint /Game/I_Ball_BP.I_Ball_BP
+[2020.10.06-23.37.01:194][ 65]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.06-23.37.08:673][497]BlueprintLog: New page: Compile Paddle_BP
+[2020.10.06-23.37.08:779][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.10.06-23.37.11:040][620]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.37.11:059][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.37.11:059][620]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:37:11 PM)
+[2020.10.06-23.37.11:059][620]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.37.11:064][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004434s)
+[2020.10.06-23.37.11:065][620]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.37.11:065][620]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED59FCE000), frame # 1231620
+[2020.10.06-23.37.11:065][620]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EC52A4CCC0), frame # 1231620
+[2020.10.06-23.37.11:065][620]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2020.10.06-23.37.11:065][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.006088s)
+[2020.10.06-23.37.11:107][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.10.06-23.37.11:108][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.37.11:108][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.37.11:109][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.37.11:109][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.37.11:109][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.37.11:109][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.37.11:109][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.37.11:109][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.37.11:109][620]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.37.11:109][620]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.37.11:113][620]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.37.11:113][620]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.37.11:132][620]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.37.11:132][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.37.11:132][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.37.11:132][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.37.11:133][620]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.37.11:149][620]LogInit: FAudioDevice initialized.
+[2020.10.06-23.37.11:168][620]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.37.11:170][620]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-18.37.11
+[2020.10.06-23.37.11:170][620]LogWorld: Bringing up level for play took: 0.001791
+[2020.10.06-23.37.11:171][620]LogOnline: OSS: Creating online subsystem instance for: :Context_124
+[2020.10.06-23.37.11:173][620]PIE: Server logged in
+[2020.10.06-23.37.11:175][620]PIE: Play in editor total start time 0.118 seconds.
+[2020.10.06-23.37.12:914][724]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.12:914][724]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.12:914][724]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.12:915][724]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.15:931][905]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.18:506][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.37.18:506][ 57]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.37.18:507][ 57]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.37.18:507][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.37.18:535][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.37.18:541][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.37.18:595][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.37.18:597][ 57]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EC52A4CCC0), frame # 1232057
+[2020.10.06-23.37.18:597][ 57]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED59FCE000), frame # 1232057
+[2020.10.06-23.37.18:600][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.10.06-23.37.18:669][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2020.10.06-23.37.21:518][223]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.37.21:536][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.37.21:536][223]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:37:21 PM)
+[2020.10.06-23.37.21:575][223]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.37.21:580][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005029s)
+[2020.10.06-23.37.21:582][223]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.37.21:582][223]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED16B10C00), frame # 1232223
+[2020.10.06-23.37.21:582][223]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED5DAA3EC0), frame # 1232223
+[2020.10.06-23.37.21:582][223]LogPlayLevel: PIE: World Init took: (0.002265s)
+[2020.10.06-23.37.21:582][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.007643s)
+[2020.10.06-23.37.21:620][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.37.21:621][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.37.21:621][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.37.21:622][223]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.37.21:622][223]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.37.21:626][223]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.37.21:626][223]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.37.21:643][223]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.37.21:643][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.37.21:643][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.37.21:643][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.37.21:644][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.37.21:663][223]LogInit: FAudioDevice initialized.
+[2020.10.06-23.37.21:674][223]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.37.21:675][223]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-18.37.21
+[2020.10.06-23.37.21:676][223]LogWorld: Bringing up level for play took: 0.001434
+[2020.10.06-23.37.21:676][223]LogOnline: OSS: Creating online subsystem instance for: :Context_125
+[2020.10.06-23.37.21:678][223]PIE: Server logged in
+[2020.10.06-23.37.21:679][223]PIE: Play in editor total start time 0.145 seconds.
+[2020.10.06-23.37.23:380][325]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.23:380][325]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.23:380][325]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.23:381][325]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.26:380][505]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.30:870][773]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.30:870][773]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.30:870][773]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.30:871][773]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.33:903][955]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.35:987][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.36:337][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.36:337][101]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.36:337][101]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.36:337][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.38:286][218]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.39:854][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.39:854][312]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.39:854][312]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.39:855][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.41:103][387]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.42:103][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.42:103][447]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.42:103][447]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.42:104][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.42:503][471]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.42:903][495]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.43:554][534]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.43:554][534]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.43:554][534]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.43:555][534]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.46:020][682]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [InvisibleBall_BP_C]
+[2020.10.06-23.37.46:020][682]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.37.46:020][682]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.37.46:021][682]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.37.47:046][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.37.47:046][741]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.37.47:047][741]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.37.47:047][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.37.47:077][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.37.47:081][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.37.47:117][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.37.47:139][741]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED5DAA3EC0), frame # 1233741
+[2020.10.06-23.37.47:140][741]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED16B10C00), frame # 1233741
+[2020.10.06-23.37.47:142][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.10.06-23.37.47:177][742]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2020.10.06-23.38.02:964][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paddle_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset" SILENT=true
+[2020.10.06-23.38.03:015][640]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP1C2427DA44ADD29E86229C955DB04099.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset'
+[2020.10.06-23.38.03:036][640]AssetCheck: New page: Asset Save: Paddle_BP
+[2020.10.06-23.38.03:036][640]LogContentValidation: Display: Validating Blueprint /Game/Paddle_BP.Paddle_BP
+[2020.10.06-23.38.24:603][901]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.06-23.38.32:033][309]BlueprintLog: New page: Compile Ball_BP
+[2020.10.06-23.38.32:138][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.10.06-23.39.13:274][765]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.06-23.39.13:293][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-23.39.13:293][765]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 1:39:13 PM)
+[2020.10.06-23.39.13:293][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.39.13:299][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005367s)
+[2020.10.06-23.39.13:300][765]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.06-23.39.13:300][765]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED15DEDE00), frame # 1238765
+[2020.10.06-23.39.13:300][765]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EC56B15F80), frame # 1238765
+[2020.10.06-23.39.13:301][765]LogPlayLevel: PIE: World Init took: (0.001972s)
+[2020.10.06-23.39.13:301][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.007544s)
+[2020.10.06-23.39.13:341][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-23.39.13:342][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-23.39.13:342][765]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-23.39.13:342][765]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-23.39.13:347][765]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-23.39.13:347][765]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-23.39.13:370][765]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.06-23.39.13:370][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-23.39.13:370][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-23.39.13:370][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-23.39.13:371][765]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-23.39.13:387][765]LogInit: FAudioDevice initialized.
+[2020.10.06-23.39.13:396][765]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.06-23.39.13:397][765]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-18.39.13
+[2020.10.06-23.39.13:398][765]LogWorld: Bringing up level for play took: 0.001452
+[2020.10.06-23.39.13:398][765]LogOnline: OSS: Creating online subsystem instance for: :Context_126
+[2020.10.06-23.39.13:401][765]PIE: Server logged in
+[2020.10.06-23.39.13:401][765]PIE: Play in editor total start time 0.111 seconds.
+[2020.10.06-23.39.15:135][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.39.15:135][869]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.06-23.39.15:135][869]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.39.15:136][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.06-23.39.18:135][ 49]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.06-23.39.19:408][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.39.19:408][123]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.06-23.39.19:408][123]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-23.39.19:409][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.39.19:442][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-23.39.19:447][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-23.39.19:502][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-23.39.19:503][123]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EC56B15F80), frame # 1239123
+[2020.10.06-23.39.19:503][123]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED15DEDE00), frame # 1239123
+[2020.10.06-23.39.19:507][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.06-23.39.19:536][124]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2020.10.06-23.47.25:856][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.10.06-23.47.25:910][270]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto3DB107ADF42071BD26658139F7335FF39.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto3.umap'
+[2020.10.06-23.47.25:914][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.099
+[2020.10.06-23.47.25:915][270]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2020.10.06-23.47.25:915][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ball_BP] ([1] browsable assets)...
+[2020.10.06-23.47.25:934][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball_BP.Ball_BP]
+[2020.10.06-23.47.25:935][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball_BP]
+[2020.10.06-23.47.26:022][270]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Ball_BP_Auto3FF6162B3423DD1E8C220F3BFBA786F7B.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Ball_BP_Auto3.uasset'
+[2020.10.06-23.47.26:024][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Paddle_BP] ([1] browsable assets)...
+[2020.10.06-23.47.26:038][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Paddle_BP.Paddle_BP]
+[2020.10.06-23.47.26:039][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Paddle_BP]
+[2020.10.06-23.47.26:097][270]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP_Auto329BA98614D2009B0A32F1CB7B29E8E40.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Paddle_BP_Auto3.uasset'
+[2020.10.06-23.47.26:099][270]LogFileHelpers: Auto-saving content packages took 0.184
+[2020.10.07-00.00.23:374][897]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{df2ba2de-92dd-45fa-9241-dfee79512020}.
+[2020.10.07-00.00.23:384][897]LogTemp: Resetting audio stream to device id 
+[2020.10.07-00.00.23:649][897]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-00.00.23:649][897]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-00.58.52:440][883]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{cd094a0d-41ca-448a-a527-9cecafb5bb5c}.
+[2020.10.07-00.58.52:445][883]LogTemp: Resetting audio stream to device id 
+[2020.10.07-00.58.52:531][883]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-00.58.52:531][883]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-00.58.53:861][887]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{06bd0d1d-2208-460c-af0a-dd7997dffaa8}.
+[2020.10.07-00.58.53:861][887]LogTemp: Resetting audio stream to device id 
+[2020.10.07-00.58.53:913][887]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-00.58.53:913][887]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-01.18.32:395][ 27]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.18.32:417][ 27]LogBlueprint: Error: [Compiler InvisibleBall_BP] The type of  Object  is undetermined.  Connect something to  Cast To Ball_BP  to imply a specific type.
+[2020.10.07-01.18.32:417][ 27]LogBlueprint: Error: [Compiler InvisibleBall_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.10.07-01.18.32:492][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.10.07-01.18.47:223][838]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.18.47:239][838]LogBlueprint: Warning: [Compiler InvisibleBall_BP] 'Ball BP' does not inherit from 'Static Mesh Component' ( Cast To Ball_BP  would always fail).
+[2020.10.07-01.18.47:314][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.10.07-01.18.51:558][ 57]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.18.51:570][ 57]LogBlueprint: Warning: [Compiler InvisibleBall_BP] 'Ball BP' does not inherit from 'Static Mesh Component' ( Cast To Ball_BP  would always fail).
+[2020.10.07-01.18.51:662][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.10.07-01.19.44:070][ 46]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.07-01.20.01:744][  1]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.20.01:756][  1]LogBlueprint: Warning: [Compiler InvisibleBall_BP] 'Ball BP' does not inherit from 'Invisible Ball BP' ( Cast To Ball_BP  would always fail).
+[2020.10.07-01.20.01:833][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.10.07-01.20.02:982][ 61]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.20.02:994][ 61]LogBlueprint: Warning: [Compiler InvisibleBall_BP] 'Ball BP' does not inherit from 'Invisible Ball BP' ( Cast To Ball_BP  would always fail).
+[2020.10.07-01.20.03:069][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.10.07-01.20.56:421][175]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.20.56:511][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.10.07-01.21.00:758][408]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.21.00:847][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.10.07-01.21.17:529][358]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.21.17:616][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.07-01.21.48:876][167]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-01.21.48:924][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-01.21.48:925][167]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 3:21:48 PM)
+[2020.10.07-01.21.48:949][167]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.07-01.21.48:956][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007755s)
+[2020.10.07-01.21.48:958][167]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.07-01.21.48:958][167]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED87681600), frame # 1547167
+[2020.10.07-01.21.48:958][167]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EC52205D00), frame # 1547167
+[2020.10.07-01.21.48:959][167]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2020.10.07-01.21.48:959][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.009939s)
+[2020.10.07-01.21.49:001][167]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.10.07-01.21.49:005][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-01.21.49:006][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-01.21.49:006][167]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-01.21.49:006][167]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-01.21.49:011][167]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-01.21.49:011][167]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-01.21.49:030][167]LogAudioMixer: Display: Using Audio Device Headphones (JIB Wireless Stereo)
+[2020.10.07-01.21.49:033][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.07-01.21.49:033][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.07-01.21.49:033][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.07-01.21.49:035][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.07-01.21.49:053][167]LogInit: FAudioDevice initialized.
+[2020.10.07-01.21.49:072][167]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.07-01.21.49:074][167]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-20.21.49
+[2020.10.07-01.21.49:075][167]LogWorld: Bringing up level for play took: 0.001520
+[2020.10.07-01.21.49:075][167]LogOnline: OSS: Creating online subsystem instance for: :Context_127
+[2020.10.07-01.21.49:078][167]PIE: Server logged in
+[2020.10.07-01.21.49:079][167]PIE: Play in editor total start time 0.177 seconds.
+[2020.10.07-01.21.50:738][266]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.21.50:738][266]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.21.50:738][266]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.21.50:738][266]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.21.53:737][446]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B124E1D8D-417F-B722-11B5-E3BEF128D62B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=cc89079f41295703355a7885f85f7b7f%7Cb98938fe31a94a1ba1364a811e0fc0b7%7C2596088c-a839-4f62-9cc3-c6e8a683cb44&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: request failed, libcurl error: 0 (No error)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1eb2b517f70 [can pipeline])
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 1 (Re-using existing connection! (#258) with host datarouter.ol.epicgames.com)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.187.57) port 443 (#258))
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 7 (Closing connection 258)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: 000001ED6DD64F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.07-01.21.56:478][611]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B124E1D8D-417F-B722-11B5-E3BEF128D62B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=cc89079f41295703355a7885f85f7b7f%7Cb98938fe31a94a1ba1364a811e0fc0b7%7C2596088c-a839-4f62-9cc3-c6e8a683cb44&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.07-01.21.58:222][715]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.21.58:222][715]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.21.58:222][715]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.21.58:223][715]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.01:255][897]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.03:688][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.03:689][ 43]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.22.03:689][ 43]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.03:689][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.05:639][160]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.06:356][203]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.06:488][211]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.07:206][254]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.07:206][254]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.22.07:206][254]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.07:206][254]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.10:456][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.10:456][449]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.22.10:456][449]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.10:456][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.13:489][631]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.13:806][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.14:005][662]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.15:922][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.15:923][777]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.22.15:923][777]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.15:923][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.17:539][874]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.18:022][903]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.19:923][ 17]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.19:923][ 17]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-01.22.19:923][ 17]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-01.22.19:923][ 17]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-01.22.21:762][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-01.22.21:762][125]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.07-01.22.21:763][125]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-01.22.21:763][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-01.22.21:780][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-01.22.21:784][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-01.22.21:842][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-01.22.21:859][125]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EC52205D00), frame # 1549125
+[2020.10.07-01.22.21:859][125]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED87681600), frame # 1549125
+[2020.10.07-01.22.21:862][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.10.07-01.22.21:899][126]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2020.10.07-01.22.26:506][401]LogEditorViewport: Clicking on Actor (LMB): InvisibleBall_BP_C (InvisibleBall_BP)
+[2020.10.07-01.23.44:013][748]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.23.44:033][748]LogBlueprint: Error: [Compiler InvisibleBall_BP] The type of  Object  is undetermined.  Connect something to  Cast To Ball_BP  to imply a specific type.
+[2020.10.07-01.23.44:033][748]LogBlueprint: Error: [Compiler InvisibleBall_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.10.07-01.23.44:111][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.10.07-01.24.57:978][765]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.24.58:080][765]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.10.07-01.25.49:379][460]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2020.10.07-01.25.49:482][460]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto493D0687B4153DE6B9452F9B094C55315.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto4.umap'
+[2020.10.07-01.25.49:492][460]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.163
+[2020.10.07-01.25.49:492][460]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2020.10.07-01.25.49:492][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InvisibleBall_BP] ([1] browsable assets)...
+[2020.10.07-01.25.49:520][460]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP]
+[2020.10.07-01.25.49:521][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/InvisibleBall_BP]
+[2020.10.07-01.25.49:630][460]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BP_Auto473D41FE144485F9BEB26BA863645B4C0.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/InvisibleBall_BP_Auto4.uasset'
+[2020.10.07-01.25.49:632][460]LogFileHelpers: Auto-saving content packages took 0.141
+[2020.10.07-01.27.14:584][422]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-01.27.14:596][422]LogBlueprint: Warning: [Compiler InvisibleBall_BP] 'Ball BP' does not inherit from 'Scene Component' ( Cast To Ball_BP  would always fail).
+[2020.10.07-01.27.14:685][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.10.07-01.35.50:237][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.10.07-01.35.50:308][457]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto554FB594448E2CC97C5E332A122788E6F.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto5.umap'
+[2020.10.07-01.35.50:314][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.130
+[2020.10.07-01.35.50:314][457]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.130
+[2020.10.07-01.35.50:315][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InvisibleBall_BP] ([1] browsable assets)...
+[2020.10.07-01.35.50:345][457]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP]
+[2020.10.07-01.35.50:345][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/InvisibleBall_BP]
+[2020.10.07-01.35.50:438][457]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BP_Auto5D69626A64CF84C05946419A594474B7C.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/InvisibleBall_BP_Auto5.uasset'
+[2020.10.07-01.35.50:440][457]LogFileHelpers: Auto-saving content packages took 0.126
+[2020.10.07-01.51.48:246][893]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{df2ba2de-92dd-45fa-9241-dfee79512020}.
+[2020.10.07-01.51.48:247][893]LogTemp: Resetting audio stream to device id 
+[2020.10.07-01.51.48:801][893]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-01.51.48:802][893]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-02.50.14:261][285]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.07-02.50.15:724][289]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.10.07-02.50.15:726][289]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.10.07-02.50.15:730][289]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.10.07-02.50.15:760][289]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.10.07-03.35.03:416][249]LogHttp: Warning: 000001ED4DD22B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B124E1D8D-417F-B722-11B5-E3BEF128D62B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=cc89079f41295703355a7885f85f7b7f%7Cb98938fe31a94a1ba1364a811e0fc0b7%7C2596088c-a839-4f62-9cc3-c6e8a683cb44&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.07-03.35.03:417][249]LogHttp: Warning: 000001ED4DD22B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.10.07-03.35.03:417][249]LogHttp: Warning: 000001ED4DD22B00: libcurl info message cache 0 (Connection 310 seems to be dead!)
+[2020.10.07-03.35.03:417][249]LogHttp: Warning: 000001ED4DD22B00: libcurl info message cache 1 (Closing connection 310)
+[2020.10.07-03.35.03:418][249]LogHttp: Warning: 000001ED4DD22B00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.07-03.35.03:418][249]LogHttp: Warning: 000001ED4DD22B00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.10.07-03.35.03:419][249]LogHttp: Warning: 000001ED4DD22B00: libcurl info message cache 4 (Closing connection 311)
+[2020.10.07-03.35.03:419][249]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B124E1D8D-417F-B722-11B5-E3BEF128D62B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=cc89079f41295703355a7885f85f7b7f%7Cb98938fe31a94a1ba1364a811e0fc0b7%7C2596088c-a839-4f62-9cc3-c6e8a683cb44&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.07-04.27.42:565][716]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-04.27.42:600][716]LogBlueprint: Warning: [Compiler InvisibleBall_BP] 'Ball BP' does not inherit from 'Scene Component' ( Cast To Ball_BP  would always fail).
+[2020.10.07-04.27.42:838][716]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.10.07-04.27.52:353][208]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-04.27.52:375][208]LogBlueprint: Error: [Compiler InvisibleBall_BP] The type of  Object  is undetermined.  Connect something to  Cast To Ball_BP  to imply a specific type.
+[2020.10.07-04.27.52:376][208]LogBlueprint: Error: [Compiler InvisibleBall_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.10.07-04.27.52:461][208]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.10.07-04.28.17:511][527]BlueprintLog: New page: Compile InvisibleBall_BP
+[2020.10.07-04.28.17:620][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.10.07-04.28.33:461][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paddle_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset" SILENT=true
+[2020.10.07-04.28.33:532][375]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP8D8CD6CA439DE648567E6D9E7DCA59E7.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset'
+[2020.10.07-04.28.33:560][375]AssetCheck: New page: Asset Save: Paddle_BP
+[2020.10.07-04.28.33:560][375]LogContentValidation: Display: Validating Blueprint /Game/Paddle_BP.Paddle_BP
+[2020.10.07-04.28.36:041][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Ball_BP.uasset" SILENT=true
+[2020.10.07-04.28.36:156][490]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Ball_BP98A84B694E5AB76536762196F2AAC2B1.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Ball_BP.uasset'
+[2020.10.07-04.28.36:181][490]AssetCheck: New page: Asset Save: Ball_BP
+[2020.10.07-04.28.36:181][490]LogContentValidation: Display: Validating Blueprint /Game/Ball_BP.Ball_BP
+[2020.10.07-04.28.40:427][726]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-04.28.40:448][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-04.28.40:449][726]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 6:28:40 PM)
+[2020.10.07-04.28.40:449][726]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.07-04.28.40:458][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008893s)
+[2020.10.07-04.28.40:461][726]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.07-04.28.40:461][726]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED7BD1CE00), frame # 1611726
+[2020.10.07-04.28.40:461][726]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED712A39C0), frame # 1611726
+[2020.10.07-04.28.40:461][726]LogPlayLevel: PIE: World Init took: (0.003032s)
+[2020.10.07-04.28.40:461][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.012284s)
+[2020.10.07-04.28.40:507][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-04.28.40:509][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-04.28.40:509][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-04.28.40:510][726]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-04.28.40:510][726]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-04.28.40:515][726]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-04.28.40:515][726]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-04.28.40:564][726]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.07-04.28.40:567][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.07-04.28.40:567][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.07-04.28.40:567][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.07-04.28.40:571][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.07-04.28.40:597][726]LogInit: FAudioDevice initialized.
+[2020.10.07-04.28.40:616][726]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.07-04.28.40:619][726]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 60) at 2020.10.06-23.28.40
+[2020.10.07-04.28.40:620][726]LogWorld: Bringing up level for play took: 0.002869
+[2020.10.07-04.28.40:620][726]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2020.10.07-04.28.40:624][726]PIE: Server logged in
+[2020.10.07-04.28.40:625][726]PIE: Play in editor total start time 0.179 seconds.
+[2020.10.07-04.28.42:292][825]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.42:292][825]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.28.42:292][825]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.42:293][825]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.45:302][  4]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.47:720][149]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.47:721][149]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.28.47:721][149]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.47:721][149]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.49:203][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.49:337][246]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.49:652][265]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.51:204][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.51:204][358]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.28.51:204][358]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.51:205][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.51:205][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.51:205][358]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.28.52:453][433]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.53:454][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.53:455][493]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.28.53:455][493]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.53:455][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1.000 Y=1.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.53:456][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.28.53:456][493]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.28.54:255][541]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.28.56:513][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-04.28.56:513][674]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.07-04.28.56:513][674]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.28.56:514][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.28.56:608][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-04.28.56:612][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.28.56:683][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-04.28.56:701][674]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED712A39C0), frame # 1612674
+[2020.10.07-04.28.56:701][674]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED7BD1CE00), frame # 1612674
+[2020.10.07-04.28.56:704][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.07-04.28.56:743][675]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2020.10.07-04.29.01:317][938]LogEditorViewport: Clicking on Actor (LMB): InvisibleBall_BP_C (InvisibleBall_BP)
+[2020.10.07-04.29.02:917][ 31]Cmd: DELETE
+[2020.10.07-04.29.02:920][ 31]Cmd: ACTOR DELETE
+[2020.10.07-04.29.03:161][ 31]LogEditorActor: Deleted Actor: InvisibleBall_BP_C
+[2020.10.07-04.29.03:202][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.10.07-04.29.03:209][ 31]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2020.10.07-04.29.39:978][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.07-04.29.40:043][136]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_Auto62D57D1E34CDAC30BFC52D38BA47078AF.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/Pong_Map_Auto6.umap'
+[2020.10.07-04.29.40:049][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pong_Map' took 0.104
+[2020.10.07-04.29.40:049][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.104
+[2020.10.07-04.29.40:049][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InvisibleBall_BP] ([1] browsable assets)...
+[2020.10.07-04.29.40:063][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP]
+[2020.10.07-04.29.40:063][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/InvisibleBall_BP]
+[2020.10.07-04.29.40:162][136]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BP_Auto60B130DA3479B6BCBCFD396946137EE82.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Autosaves/Game/InvisibleBall_BP_Auto6.uasset'
+[2020.10.07-04.29.40:164][136]LogFileHelpers: Auto-saving content packages took 0.115
+[2020.10.07-04.33.46:354][911]BlueprintLog: New page: Compile Paddle_BP
+[2020.10.07-04.33.46:522][911]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.10.07-04.34.20:078][774]BlueprintLog: New page: Compile I_Ball_BP
+[2020.10.07-04.34.20:203][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.10.07-04.34.24:088][118]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-04.34.24:108][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-04.34.24:108][118]PIE: New page: PIE session: Pong_Map (Oct 6, 2020, 6:34:24 PM)
+[2020.10.07-04.34.24:130][118]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pong_Map
+[2020.10.07-04.34.24:136][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006176s)
+[2020.10.07-04.34.24:138][118]LogAIModule: Creating AISystem for world Pong_Map
+[2020.10.07-04.34.24:138][118]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ED97741200), frame # 1632118
+[2020.10.07-04.34.24:138][118]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ED71533600), frame # 1632118
+[2020.10.07-04.34.24:139][118]LogPlayLevel: PIE: World Init took: (0.002237s)
+[2020.10.07-04.34.24:139][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pong_Map.Pong_Map to /Game/UEDPIE_0_Pong_Map.Pong_Map (0.008731s)
+[2020.10.07-04.34.24:184][118]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.10.07-04.34.24:185][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-04.34.24:185][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-04.34.24:186][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-04.34.24:186][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-04.34.24:186][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-04.34.24:186][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-04.34.24:186][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-04.34.24:186][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-04.34.24:186][118]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-04.34.24:186][118]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-04.34.24:190][118]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-04.34.24:190][118]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-04.34.24:235][118]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.07-04.34.24:236][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.07-04.34.24:236][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.07-04.34.24:236][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.07-04.34.24:237][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.07-04.34.24:266][118]LogInit: FAudioDevice initialized.
+[2020.10.07-04.34.24:277][118]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.07-04.34.24:278][118]LogWorld: Bringing World /Game/UEDPIE_0_Pong_Map.Pong_Map up for play (max tick rate 0) at 2020.10.06-23.34.24
+[2020.10.07-04.34.24:279][118]LogWorld: Bringing up level for play took: 0.001420
+[2020.10.07-04.34.24:279][118]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2020.10.07-04.34.24:282][118]PIE: Server logged in
+[2020.10.07-04.34.24:283][118]PIE: Play in editor total start time 0.177 seconds.
+[2020.10.07-04.34.25:962][316]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.25:963][316]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.25:963][316]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.28:968][641]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.31:373][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.31:373][925]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.31:373][925]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.33:191][141]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.33:299][154]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.33:636][194]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.34:845][338]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.34:846][338]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.34:846][338]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.36:081][486]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.37:072][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.37:072][603]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.37:072][603]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.37:123][609]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.37:869][698]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.38:504][773]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.38:504][773]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.38:504][773]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.39:012][834]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.39:424][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.39:424][883]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.39:424][883]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.39:424][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.39:425][883]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.41:678][152]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.41:678][152]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.41:679][152]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.44:701][510]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.45:660][624]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.47:121][798]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.47:122][798]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.47:122][798]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.49:056][ 25]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.50:608][210]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.50:608][210]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.50:608][210]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.50:859][240]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.51:847][358]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.52:844][477]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.52:844][477]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.52:844][477]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.53:316][533]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.53:644][572]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.54:282][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.54:283][647]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.54:283][647]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.56:732][938]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=30.000] for [I_Ball_BP_C]
+[2020.10.07-04.34.56:732][938]LogBlueprintUserMessages: [Ball_BP_2] I_Ball Spawned
+[2020.10.07-04.34.56:733][938]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.59:758][296]LogBlueprintUserMessages: [Ball_BP_2] Reverse
+[2020.10.07-04.34.59:982][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-04.34.59:982][317]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pong_Map
+[2020.10.07-04.34.59:983][317]LogWorld: UWorld::CleanupWorld for Pong_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.34.59:983][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.34.59:999][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-04.35.00:007][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.35.00:086][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-04.35.00:089][317]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ED71533600), frame # 1636317
+[2020.10.07-04.35.00:089][317]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ED97741200), frame # 1636317
+[2020.10.07-04.35.00:094][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.10.07-04.35.00:143][318]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2020.10.07-04.35.02:201][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.10.07-04.35.02:343][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.07-04.35.02:401][553]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map503E87094F3CC0BD18AC63B547F10FF9.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Pong_Map.umap'
+[2020.10.07-04.35.02:444][553]LogFileHelpers: Saving map 'Pong_Map' took 0.144
+[2020.10.07-04.35.02:495][553]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_BuiltData7B18C51349942AF0611DE09B120A4BDB.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Pong_Map_BuiltData.uasset'
+[2020.10.07-04.35.02:543][553]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Pong_Map_BuiltData905F1B4F49B7405BA7266B803B2574F9.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Pong_Map_BuiltData.uasset'
+[2020.10.07-04.35.02:561][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paddle_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset" SILENT=true
+[2020.10.07-04.35.02:619][553]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/Paddle_BP7BEC6D804DA7519D8B29758F8F4EDB88.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/Paddle_BP.uasset'
+[2020.10.07-04.35.02:641][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InvisibleBall_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/InvisibleBall_BP.uasset" SILENT=true
+[2020.10.07-04.35.02:732][553]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/InvisibleBall_BPEFBF5D3248C76E9D481458AB2ECF08CA.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/InvisibleBall_BP.uasset'
+[2020.10.07-04.35.02:748][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/I_Ball_BP" FILE="../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/I_Ball_BP.uasset" SILENT=true
+[2020.10.07-04.35.02:839][553]LogSavePackage: Moving '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Saved/I_Ball_BP61F2DD7D42586AE82243DDB74E67F107.tmp' to '../../../../../../Users/dangv/Documents/Github Repositories/Unreal/Pong/UE4Pong_CurrentVersion/Pong/Content/I_Ball_BP.uasset'
+[2020.10.07-04.35.02:888][553]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.07-04.35.02:888][553]LogContentValidation: Display: Validating World /Game/Pong_Map.Pong_Map
+[2020.10.07-04.35.02:888][553]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pong_Map_BuiltData.Pong_Map_BuiltData
+[2020.10.07-04.35.02:888][553]LogContentValidation: Display: Validating Blueprint /Game/Paddle_BP.Paddle_BP
+[2020.10.07-04.35.02:888][553]LogContentValidation: Display: Validating Blueprint /Game/InvisibleBall_BP.InvisibleBall_BP
+[2020.10.07-04.35.02:888][553]LogContentValidation: Display: Validating Blueprint /Game/I_Ball_BP.I_Ball_BP
+[2020.10.07-04.35.05:065][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.10.07-04.35.05:150][788]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.05:150][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.35.05:498][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.07-04.35.05:498][788]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.05:499][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.35.05:715][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.07-04.35.05:716][788]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.05:716][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.35.05:917][788]LogSlate: Window 'I_Ball_BP' being destroyed
+[2020.10.07-04.35.05:950][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.07-04.35.05:950][788]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.05:950][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-04.35.06:182][788]LogSlate: Window 'Pong - Unreal Editor' being destroyed
+[2020.10.07-04.35.06:185][788]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.07-04.35.06:679][789]Cmd: QUIT_EDITOR
+[2020.10.07-04.35.06:679][789]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.07-04.35.06:700][789]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.07-04.35.07:266][789]LogExit: Preparing to exit.
+[2020.10.07-04.35.07:674][789]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:677][789]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:681][789]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:685][789]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:690][789]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:694][789]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:698][789]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:702][789]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:821][789]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.07-04.35.07:858][789]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-04.35.07:858][789]LogExit: Editor shut down
+[2020.10.07-04.35.07:861][789]LogExit: Transaction tracking system shut down
+[2020.10.07-04.35.08:482][789]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001EB50787600), frame # 1636789
+[2020.10.07-04.35.08:482][789]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EB507891C0), frame # 1636789
+[2020.10.07-04.35.08:483][789]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EB507D9E00), frame # 1636789
+[2020.10.07-04.35.08:646][789]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EB4DD16340), frame # 1636789
+[2020.10.07-04.35.08:646][789]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EB59BC1800), frame # 1636789
+[2020.10.07-04.35.09:178][789]LogExit: Object subsystem successfully closed.
+[2020.10.07-04.35.09:261][789]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.07-04.35.09:518][789]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (798)
+[2020.10.07-04.35.09:518][789]LogModuleManager: Shutting down and abandoning module Voice (796)
+[2020.10.07-04.35.09:519][789]LogModuleManager: Shutting down and abandoning module BlueprintGraph (794)
+[2020.10.07-04.35.09:520][789]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.10.07-04.35.09:521][789]LogModuleManager: Shutting down and abandoning module SceneOutliner (790)
+[2020.10.07-04.35.09:521][789]LogModuleManager: Shutting down and abandoning module AddContentDialog (788)
+[2020.10.07-04.35.09:531][789]LogModuleManager: Shutting down and abandoning module WidgetCarousel (787)
+[2020.10.07-04.35.09:531][789]LogModuleManager: Shutting down and abandoning module EditorWidgets (784)
+[2020.10.07-04.35.09:531][789]LogModuleManager: Shutting down and abandoning module CollectionManager (782)
+[2020.10.07-04.35.09:534][789]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (780)
+[2020.10.07-04.35.09:534][789]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.10.07-04.35.09:536][789]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.10.07-04.35.09:537][789]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.10.07-04.35.09:537][789]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.10.07-04.35.09:542][789]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.10.07-04.35.09:543][789]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.10.07-04.35.09:543][789]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.10.07-04.35.09:543][789]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.10.07-04.35.09:544][789]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.10.07-04.35.09:544][789]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.10.07-04.35.09:545][789]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.10.07-04.35.09:545][789]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.10.07-04.35.09:545][789]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.10.07-04.35.09:546][789]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.10.07-04.35.09:546][789]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.10.07-04.35.09:550][789]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.10.07-04.35.09:551][789]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.10.07-04.35.09:555][789]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.10.07-04.35.09:556][789]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.10.07-04.35.09:556][789]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.10.07-04.35.09:556][789]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.10.07-04.35.09:556][789]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.10.07-04.35.09:556][789]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.10.07-04.35.09:557][789]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.10.07-04.35.09:559][789]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.10.07-04.35.09:560][789]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.10.07-04.35.09:561][789]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.10.07-04.35.09:562][789]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.10.07-04.35.09:564][789]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.10.07-04.35.09:564][789]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.10.07-04.35.09:564][789]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.10.07-04.35.09:565][789]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.10.07-04.35.09:565][789]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.10.07-04.35.09:565][789]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.10.07-04.35.09:567][789]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.10.07-04.35.09:567][789]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.10.07-04.35.09:567][789]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.10.07-04.35.09:568][789]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.10.07-04.35.09:569][789]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.10.07-04.35.09:571][789]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.10.07-04.35.09:573][789]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.10.07-04.35.09:575][789]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.10.07-04.35.09:575][789]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.10.07-04.35.09:576][789]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.10.07-04.35.09:576][789]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.10.07-04.35.10:550][789]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.10.07-04.35.10:550][789]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.10.07-04.35.10:550][789]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.10.07-04.35.10:550][789]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.10.07-04.35.10:550][789]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.10.07-04.35.10:582][789]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.10.07-04.35.10:583][789]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.10.07-04.35.10:583][789]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.10.07-04.35.10:584][789]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.10.07-04.35.10:585][789]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.10.07-04.35.10:586][789]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.10.07-04.35.10:587][789]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.10.07-04.35.10:588][789]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.10.07-04.35.10:588][789]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.10.07-04.35.10:588][789]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.10.07-04.35.10:589][789]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.10.07-04.35.10:589][789]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.10.07-04.35.10:589][789]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.10.07-04.35.10:590][789]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.10.07-04.35.10:591][789]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.10.07-04.35.10:591][789]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.10.07-04.35.10:592][789]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.10.07-04.35.10:593][789]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.10.07-04.35.10:593][789]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.10.07-04.35.10:593][789]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.10.07-04.35.10:595][789]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.10.07-04.35.10:630][789]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.10.07-04.35.10:646][789]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.10.07-04.35.10:649][789]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.10.07-04.35.10:662][789]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.10.07-04.35.10:662][789]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.10.07-04.35.10:664][789]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.10.07-04.35.10:665][789]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.10.07-04.35.10:667][789]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.10.07-04.35.10:669][789]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.10.07-04.35.10:670][789]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.10.07-04.35.10:670][789]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.10.07-04.35.10:741][789]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.10.07-04.35.10:741][789]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.10.07-04.35.10:741][789]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.10.07-04.35.10:742][789]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.10.07-04.35.10:745][789]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.10.07-04.35.10:745][789]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.10.07-04.35.10:745][789]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.10.07-04.35.10:814][789]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.10.07-04.35.10:814][789]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.10.07-04.35.10:822][789]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.10.07-04.35.10:824][789]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.10.07-04.35.10:824][789]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.10.07-04.35.10:825][789]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.10.07-04.35.10:826][789]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.10.07-04.35.10:827][789]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.10.07-04.35.10:827][789]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.10.07-04.35.10:827][789]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.10.07-04.35.10:827][789]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.10.07-04.35.10:878][789]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.10.07-04.35.10:879][789]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.10.07-04.35.10:879][789]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.10.07-04.35.10:879][789]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.10.07-04.35.10:881][789]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.10.07-04.35.10:881][789]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.10.07-04.35.10:881][789]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.10.07-04.35.10:882][789]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.10.07-04.35.10:882][789]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.10.07-04.35.10:882][789]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.10.07-04.35.10:882][789]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.10.07-04.35.10:882][789]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.10.07-04.35.10:882][789]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.10.07-04.35.10:883][789]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.10.07-04.35.10:885][789]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.10.07-04.35.10:885][789]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.10.07-04.35.10:886][789]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.10.07-04.35.10:887][789]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.10.07-04.35.10:887][789]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.10.07-04.35.10:887][789]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.10.07-04.35.10:887][789]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.10.07-04.35.10:887][789]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.10.07-04.35.10:888][789]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.10.07-04.35.10:888][789]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.10.07-04.35.10:889][789]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.10.07-04.35.10:889][789]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.10.07-04.35.10:889][789]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.10.07-04.35.10:889][789]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.10.07-04.35.10:889][789]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.10.07-04.35.10:890][789]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.10.07-04.35.10:893][789]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.10.07-04.35.10:894][789]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.10.07-04.35.10:894][789]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.10.07-04.35.10:895][789]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.10.07-04.35.10:895][789]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.10.07-04.35.10:895][789]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.10.07-04.35.10:895][789]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.10.07-04.35.10:896][789]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.10.07-04.35.10:896][789]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.10.07-04.35.10:896][789]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.10.07-04.35.10:896][789]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.10.07-04.35.10:896][789]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.10.07-04.35.10:897][789]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.10.07-04.35.10:897][789]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.10.07-04.35.10:897][789]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.10.07-04.35.10:897][789]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.10.07-04.35.10:898][789]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.10.07-04.35.10:899][789]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.10.07-04.35.10:900][789]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.10.07-04.35.10:900][789]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.10.07-04.35.10:903][789]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.10.07-04.35.10:904][789]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.10.07-04.35.10:904][789]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.10.07-04.35.10:905][789]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.10.07-04.35.10:907][789]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.10.07-04.35.10:907][789]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.10.07-04.35.10:907][789]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.10.07-04.35.10:907][789]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.10.07-04.35.10:907][789]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.10.07-04.35.10:908][789]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.10.07-04.35.10:909][789]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.10.07-04.35.10:909][789]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.10.07-04.35.10:911][789]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.10.07-04.35.10:914][789]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.10.07-04.35.10:915][789]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.10.07-04.35.10:917][789]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.10.07-04.35.10:917][789]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.10.07-04.35.10:917][789]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.10.07-04.35.10:918][789]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.10.07-04.35.10:918][789]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.10.07-04.35.10:918][789]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.10.07-04.35.10:918][789]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.10.07-04.35.10:918][789]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.10.07-04.35.10:920][789]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.10.07-04.35.11:022][789]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.10.07-04.35.11:124][789]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.10.07-04.35.11:124][789]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.10.07-04.35.11:124][789]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.10.07-04.35.11:124][789]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.10.07-04.35.11:124][789]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.10.07-04.35.11:125][789]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.10.07-04.35.11:125][789]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.10.07-04.35.11:125][789]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.10.07-04.35.11:125][789]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.10.07-04.35.11:126][789]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.10.07-04.35.11:127][789]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.10.07-04.35.11:128][789]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.07-04.35.11:129][789]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.10.07-04.35.11:129][789]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.10.07-04.35.11:130][789]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.10.07-04.35.11:130][789]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.10.07-04.35.11:130][789]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.10.07-04.35.11:131][789]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.10.07-04.35.11:131][789]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.10.07-04.35.11:136][789]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.10.07-04.35.11:136][789]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.10.07-04.35.11:136][789]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.10.07-04.35.11:137][789]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.10.07-04.35.11:137][789]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.10.07-04.35.11:137][789]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.10.07-04.35.11:139][789]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.10.07-04.35.11:144][789]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.10.07-04.35.11:146][789]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.10.07-04.35.11:147][789]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.10.07-04.35.11:147][789]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.10.07-04.35.11:149][789]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.10.07-04.35.11:149][789]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.10.07-04.35.11:150][789]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.10.07-04.35.11:150][789]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.10.07-04.35.11:150][789]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.10.07-04.35.11:150][789]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.10.07-04.35.11:213][789]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.10.07-04.35.11:213][789]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.10.07-04.35.11:213][789]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.10.07-04.35.11:213][789]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.10.07-04.35.11:214][789]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.10.07-04.35.11:216][789]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.10.07-04.35.11:216][789]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.10.07-04.35.11:216][789]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.10.07-04.35.11:216][789]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.10.07-04.35.11:217][789]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.10.07-04.35.11:218][789]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.10.07-04.35.11:218][789]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.10.07-04.35.11:220][789]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.10.07-04.35.11:220][789]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.10.07-04.35.11:221][789]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.10.07-04.35.11:222][789]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.10.07-04.35.11:224][789]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.10.07-04.35.11:224][789]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.10.07-04.35.11:227][789]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.10.07-04.35.11:234][789]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.10.07-04.35.11:236][789]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.10.07-04.35.11:239][789]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.10.07-04.35.11:239][789]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.10.07-04.35.11:239][789]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.10.07-04.35.11:239][789]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.10.07-04.35.11:240][789]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.10.07-04.35.11:240][789]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.10.07-04.35.11:240][789]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.10.07-04.35.11:240][789]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.10.07-04.35.11:241][789]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.10.07-04.35.11:241][789]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.10.07-04.35.11:241][789]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.10.07-04.35.11:244][789]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.10.07-04.35.11:246][789]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.10.07-04.35.11:249][789]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.10.07-04.35.11:256][789]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.10.07-04.35.11:256][789]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.10.07-04.35.11:256][789]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.10.07-04.35.11:258][789]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.10.07-04.35.11:260][789]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.10.07-04.35.11:260][789]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.10.07-04.35.11:260][789]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.10.07-04.35.11:261][789]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.10.07-04.35.11:264][789]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.10.07-04.35.11:264][789]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.10.07-04.35.11:265][789]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.10.07-04.35.11:266][789]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.10.07-04.35.11:266][789]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.10.07-04.35.11:267][789]LogXGEController: Cleaning working directory: C:/Users/dangv/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.07-04.35.11:267][789]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.10.07-04.35.11:268][789]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.10.07-04.35.11:269][789]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.10.07-04.35.11:269][789]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.10.07-04.35.11:270][789]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.10.07-04.35.11:270][789]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.10.07-04.35.11:271][789]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.10.07-04.35.11:271][789]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.10.07-04.35.11:271][789]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.10.07-04.35.11:271][789]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.10.07-04.35.11:272][789]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.10.07-04.35.11:272][789]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.10.07-04.35.11:272][789]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.10.07-04.35.11:272][789]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.10.07-04.35.11:272][789]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.10.07-04.35.11:273][789]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.10.07-04.35.11:273][789]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.10.07-04.35.11:273][789]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.10.07-04.35.11:274][789]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.10.07-04.35.11:274][789]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.10.07-04.35.11:274][789]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.10.07-04.35.11:300][789]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.10.07-04.35.11:312][789]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.10.07-04.35.11:312][789]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.10.07-04.35.11:313][789]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.10.07-04.35.11:313][789]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.10.07-04.35.11:313][789]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.10.07-04.35.11:314][789]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.10.07-04.35.11:314][789]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.10.07-04.35.11:314][789]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.10.07-04.35.11:314][789]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.10.07-04.35.11:348][789]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.10.07-04.35.11:463][789]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.10.07-04.35.11:463][789]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.10.07-04.35.11:463][789]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.10.07-04.35.11:463][789]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.10.07-04.35.11:468][789]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.10.07-04.35.11:468][789]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.10.07-04.35.11:470][789]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.10.07-04.35.11:471][789]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.10.07-04.35.11:473][789]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.10.07-04.35.11:474][789]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.10.07-04.35.11:474][789]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.10.07-04.35.11:475][789]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.10.07-04.35.11:476][789]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.10.07-04.35.11:476][789]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.10.07-04.35.11:477][789]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.07-04.35.11:477][789]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.10.07-04.35.11:477][789]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.10.07-04.35.11:477][789]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.10.07-04.35.11:477][789]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.10.07-04.35.11:477][789]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.10.07-04.35.11:481][789]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.10.07-04.35.11:483][789]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.10.07-04.35.11:517][789]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.10.07-04.35.11:518][789]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.10.07-04.35.11:518][789]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B124E1D8D-417F-B722-11B5-E3BEF128D62B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=cc89079f41295703355a7885f85f7b7f%7Cb98938fe31a94a1ba1364a811e0fc0b7%7C2596088c-a839-4f62-9cc3-c6e8a683cb44&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.07-04.35.11:518][789]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B124E1D8D-417F-B722-11B5-E3BEF128D62B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=cc89079f41295703355a7885f85f7b7f%7Cb98938fe31a94a1ba1364a811e0fc0b7%7C2596088c-a839-4f62-9cc3-c6e8a683cb44&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.07-04.35.11:554][789]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.10.07-04.35.11:563][789]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.10.07-04.35.11:570][789]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.10.07-04.35.11:572][789]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.10.07-04.35.11:572][789]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.10.07-04.35.11:573][789]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.10.07-04.35.11:574][789]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.10.07-04.35.11:574][789]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.10.07-04.35.11:574][789]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.10.07-04.35.11:574][789]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.10.07-04.35.11:576][789]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.07-04.35.11:577][789]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.07-04.35.11:577][789]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.07-04.35.11:577][789]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.07-04.35.11:578][789]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.07-04.35.11:582][789]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.07-04.35.11:656][789]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.07-04.35.11:658][789]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.07-04.35.11:658][789]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.07-04.35.11:658][789]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.07-04.35.11:668][789]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.07-04.35.11:668][789]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.07-04.35.11:668][789]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.07-04.35.11:669][789]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.07-04.35.11:670][789]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.07-04.35.11:670][789]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.07-04.35.11:670][789]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.07-04.35.11:670][789]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.07-04.35.11:671][789]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.07-04.35.11:671][789]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.07-04.35.11:671][789]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.07-04.35.11:674][789]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.07-04.35.11:675][789]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.07-04.35.11:721][789]LogD3D11RHI: Shutdown
+[2020.10.07-04.35.11:721][789]LogD3D11RHI: CleanupD3DDevice
+[2020.10.07-04.35.11:956][789]LogExit: Exiting.
+[2020.10.07-04.35.12:009][789]Log file closed, 10/06/20 23:35:12
